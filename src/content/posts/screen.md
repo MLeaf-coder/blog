@@ -2,7 +2,7 @@
 title: screen
 published: 2024-12-16
 description: 'screen 命令使用'
-image: './img/2.png'
+image: 'https://github.com/FY-yun/picx-images-hosting/raw/master/20241217/0CEC95161C0808119EA15DF679759D2C.58hffm7gwq.webp'
 tags: [Linux , 命令]
 category: '教程分享'
 draft: false 

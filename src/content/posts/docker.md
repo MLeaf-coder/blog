@@ -1,6 +1,7 @@
 ---
 title: 安装docker
 published: 2024-10-21
+image: 'https://github.com/FY-yun/picx-images-hosting/raw/master/20241217/docker.6ikclxtv5n.webp'
 description: 安卓termux安装docker
 tags: [docker, termux]
 category: 安卓折腾记

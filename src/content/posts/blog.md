@@ -2,7 +2,7 @@
 title: 我的博客
 published: 2024-12-13
 description: '我第n次更改了我的博客'
-image: ''
+image: 'https://github.com/FY-yun/picx-images-hosting/raw/master/20241217/2293F77B1F19B0A4ED6606A0027F8E46.1ap1yxyt8s.webp'
 tags: [随手记,快乐分享]
 category: '我在人间的时间'
 draft: false 
