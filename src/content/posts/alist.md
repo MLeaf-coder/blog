@@ -2,7 +2,7 @@
 title: alist
 published: 2025-01-06
 description: '本期主要教学alist的配置和食用方法'
-image: 'https://1drv.ms/i/c/2182f48b953d36f8/IQQJyKcqsX0tQ4f7_He7mtZXAfT8G-as0JM1vDafkJCMxko?width=1024'
+image: 'https://github.com/FY-yun/picx-images-hosting/raw/master/20250115/thumbnail.361nx10tkw.webp'
 tags: [alist,termux]
 category: '教程分享'
 draft: false 

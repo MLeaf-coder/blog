@@ -2,7 +2,7 @@
 title: frp
 published: 2025-01-06
 description: '内网穿透讲解'
-image: 'https://1drv.ms/i/c/2182f48b953d36f8/IQT4Nj2Vi_SCIIAhbjgAAAAAAUqLmq_8h-hedFRAtAIy9x0?width=7680&height=4320'
+image: 'https://github.com/FY-yun/picx-images-hosting/raw/master/20250115/thumbnail.4n7sys5r3x.webp'
 tags: [frp,教学]
 category: '教程分享'
 draft: false 
